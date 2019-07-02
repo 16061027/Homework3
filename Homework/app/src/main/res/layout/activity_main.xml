@@ -7,6 +7,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <Button
         android:id="@+id/btn_ex1"
         android:layout_width="match_parent"
@@ -18,5 +19,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ex2"/>
+
+    <Button
+        android:id="@+id/btn_ex3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ch3ex3"/>
 
 </LinearLayout>
